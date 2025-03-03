@@ -50,7 +50,7 @@ Se probaron varios modelos, incluyendo versiones con **datos originales, submues
 El modelo logró un **buen balance entre precisión y recall**, permitiendo **identificar clientes en riesgo de churn** con un desempeño aceptable.  
 
 ## Conclusión  
-✅ **El churn está influenciado principalmente por la actividad de pagos, el número de tarjetas y los permisos otorgados.**  
+ **El churn está influenciado principalmente por la actividad de pagos, el número de tarjetas y los permisos otorgados.**  
 
 📌 **Recomendaciones para reducir el churn:**  
 - **Incentivar la participación de nuevos clientes** con recompensas en los primeros pagos.  
